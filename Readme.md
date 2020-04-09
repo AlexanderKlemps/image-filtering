@@ -23,10 +23,10 @@ one can use the script ``edit.py``.
 ## Results ##
 
 - Perona-Malik-Filter
-![perona-malik-results](Resources/PeronaMalik/sample.png)
+![perona-malik-results](filters/Resources/PeronaMalik/sample.png)
 
  - Coherence Shock Filter
-![coherence-results](Resources/Coherence/sample.png)
+![coherence-results](filters/Resources/Coherence/sample.png)
 
 - Linear Osmosis Filter
-![osmosis-results](Resources/Osmosis/sample.png)
+![osmosis-results](filters/Resources/Osmosis/sample.png)
