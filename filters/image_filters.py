@@ -1,5 +1,5 @@
 import numpy as np
-from .utils import gradient, laplace, divergence, resize
+from filters.utils import gradient, laplace, divergence, resize
 import cv2
 import time
 

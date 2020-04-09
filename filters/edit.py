@@ -3,7 +3,7 @@ import os
 import cv2
 import sys
 import numpy as np
-from filters.filters import PeronaMalikFilter, OsmosisFilter, CoherenceShockFilter
+from filters.image_filters import PeronaMalikFilter, OsmosisFilter, CoherenceShockFilter
 from filters.utils import resize, put_text
 
 FILTER_DICT = {
