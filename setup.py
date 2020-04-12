@@ -7,5 +7,5 @@ setup(
    author='Alexander Klemps',
    author_email='alexander.klemps@hotmail.com',
    packages=['filters'],  
-   install_requires=[],
+   install_requires=["numpy", "opencv-python"],
 )
